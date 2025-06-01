@@ -1,0 +1,813 @@
+{
+    "headers": [
+        "Rank",
+        "Song",
+        "Artist(s)",
+        "Streams(billions)",
+        "Release date",
+        "Ref.",
+        "\"Blinding Lights\"",
+        "\"Shape of You\"",
+        "\"Someone You Loved\"",
+        "\"Starboy\"",
+        "\"As It Was\"",
+        "\"Sunflower\"",
+        "\"Sweater Weather\"",
+        "\"One Dance\"",
+        "\"Stay\"",
+        "\"Believer\"",
+        "\"Perfect\"",
+        "\"Heat Waves\"",
+        "\"Lovely\"",
+        "\"Dance Monkey\"",
+        "\"Closer\"",
+        "\"Say You Won't Let Go\"",
+        "\"Rockstar\"",
+        "\"Something Just Like This\"",
+        "\"Riptide\"",
+        "\"Watermelon Sugar\"",
+        "\"Se\u00f1orita\"",
+        "\"Take Me to Church\"",
+        "\"Another Love\"",
+        "\"I Wanna Be Yours\"",
+        "\"Yellow\"",
+        "\"Counting Stars\"",
+        "\"Don't Start Now\"",
+        "\"The Night We Met\"",
+        "\"Photograph\"",
+        "\"Lucid Dreams\"",
+        "\"Cruel Summer\"",
+        "\"Can't Hold Us\"",
+        "\"Goosebumps\"",
+        "\"Circles\"",
+        "\"Bohemian Rhapsody\"",
+        "\"God's Plan\"",
+        "\"Thinking Out Loud\"",
+        "\"Love Yourself\"",
+        "\"Die for You\"",
+        "\"Shallow\"",
+        "\"Bad Guy\"",
+        "\"All of Me\"",
+        "\"Thunder\"",
+        "\"Viva La Vida\"",
+        "\"Just the Way You Are\"",
+        "\"Wake Me Up\"",
+        "\"Demons\"",
+        "\"The Hills\"",
+        "\"Stressed Out\"",
+        "\"When I Was Your Man\"",
+        "\"Locked out of Heaven\"",
+        "\"Humble\"",
+        "\"That's What I Like\"",
+        "\"Without Me\"",
+        "\"Mr. Brightside\"",
+        "\"Every Breath You Take\"",
+        "\"No Role Modelz\"",
+        "\"Do I Wanna Know?\"",
+        "\"Lose Yourself\"",
+        "\"Let Her Go\"",
+        "\"7 Rings\"",
+        "\"In The End\"",
+        "\"Flowers\"",
+        "\"Unforgettable\"",
+        "\"Drivers License\"",
+        "\"Treat You Better\"",
+        "\"Let Me Love You\"",
+        "\"Kill Bill\"",
+        "\"One Kiss\"",
+        "\"Good 4 U\"",
+        "\"Sorry\"",
+        "\"Happier\"",
+        "\"Sad!\"",
+        "\"There's Nothing Holdin' Me Back\"",
+        "\"Don't Stop Believin'\"",
+        "\"Jocelyn Flores\"",
+        "\"Smells Like Teen Spirit\"",
+        "\"Sicko Mode\"",
+        "\"Cold Heart (Pnau remix)\"",
+        "\"XO Tour Llif3\"",
+        "\"Lean On\"",
+        "\"Birds of a Feather\"",
+        "\"Save Your Tears\"",
+        "\"Wonderwall\"",
+        "\"Seven\"",
+        "\"Levitating\"",
+        "\"New Rules\"",
+        "\"Too Good at Goodbyes\"",
+        "\"Don't Stop Me Now\"",
+        "\"The Scientist\"",
+        "\"See You Again\"",
+        "\"Uptown Funk\"",
+        "\"Take On Me\"",
+        "\"Stay With Me\"",
+        "\"Iris\"",
+        "\"Havana\"",
+        "\"Someone Like You\"",
+        "\"Memories\"",
+        "\"Without Me\"",
+        "\"All the Stars\"",
+        "As of 29 March 2025"
+    ],
+    "data": [
+        [
+            "1",
+            "The Weeknd",
+            "4.769",
+            "29 November 2019",
+            "[2]"
+        ],
+        [
+            "2",
+            "Ed Sheeran",
+            "4.287",
+            "6 January 2017",
+            "[3]"
+        ],
+        [
+            "3",
+            "Lewis Capaldi",
+            "3.848",
+            "8 November 2018",
+            "[4]"
+        ],
+        [
+            "4",
+            "The Weeknd and Daft Punk",
+            "3.815",
+            "21 September 2016",
+            "[5]"
+        ],
+        [
+            "5",
+            "Harry Styles",
+            "3.813",
+            "1 April 2022",
+            "[6]"
+        ],
+        [
+            "6",
+            "Post Malone and Swae Lee",
+            "3.757",
+            "18 October 2018",
+            "[7]"
+        ],
+        [
+            "7",
+            "The Neighbourhood",
+            "3.668",
+            "3 December 2012",
+            "[8]"
+        ],
+        [
+            "8",
+            "Drake with Wizkid and Kyla",
+            "3.576",
+            "5 April 2016",
+            "[9]"
+        ],
+        [
+            "9",
+            "The Kid Laroi and Justin Bieber",
+            "3.507",
+            "9 July 2021",
+            "[10]"
+        ],
+        [
+            "10",
+            "Imagine Dragons",
+            "3.374",
+            "1 February 2017",
+            "[11]"
+        ],
+        [
+            "11",
+            "Ed Sheeran",
+            "3.363",
+            "26 September 2017",
+            "[12]"
+        ],
+        [
+            "12",
+            "Glass Animals",
+            "3.331",
+            "29 June 2020",
+            "[13]"
+        ],
+        [
+            "13",
+            "Billie Eilish and Khalid",
+            "3.250",
+            "19 April 2018",
+            "[14]"
+        ],
+        [
+            "14",
+            "Tones and I",
+            "3.235",
+            "10 May 2019",
+            "[15]"
+        ],
+        [
+            "15",
+            "The Chainsmokers and Halsey",
+            "3.204",
+            "29 July 2016",
+            "[16]"
+        ],
+        [
+            "16",
+            "James Arthur",
+            "3.203",
+            "9 September 2016",
+            "[17]"
+        ],
+        [
+            "17",
+            "Post Malone and 21 Savage",
+            "3.146",
+            "15 September 2017",
+            "[18]"
+        ],
+        [
+            "18",
+            "The Chainsmokers and Coldplay",
+            "3.081",
+            "22 February 2017",
+            "[19]"
+        ],
+        [
+            "19",
+            "Vance Joy",
+            "3.027",
+            "21 May 2013",
+            "[20]"
+        ],
+        [
+            "20",
+            "Harry Styles",
+            "2.972",
+            "13 December 2019",
+            "[21]"
+        ],
+        [
+            "21",
+            "Shawn Mendes and Camila Cabello",
+            "2.966",
+            "21 June 2019",
+            "[22]"
+        ],
+        [
+            "22",
+            "Hozier",
+            "2.962",
+            "13 September 2013",
+            "[23]"
+        ],
+        [
+            "23",
+            "Tom Odell",
+            "2.950",
+            "15 October 2012",
+            "[24]"
+        ],
+        [
+            "24",
+            "Arctic Monkeys",
+            "2.928",
+            "9 September 2013",
+            "[25]"
+        ],
+        [
+            "25",
+            "Coldplay",
+            "2.923",
+            "26 June 2000",
+            "[26]"
+        ],
+        [
+            "26",
+            "OneRepublic",
+            "2.890",
+            "14 June 2013",
+            "[27]"
+        ],
+        [
+            "27",
+            "Dua Lipa",
+            "2.886",
+            "31 October 2019",
+            "[28]"
+        ],
+        [
+            "28",
+            "Lord Huron",
+            "2.874",
+            "7 April 2015",
+            "[29]"
+        ],
+        [
+            "29",
+            "Ed Sheeran",
+            "2.860",
+            "11 May 2015",
+            "[30]"
+        ],
+        [
+            "30",
+            "Juice Wrld",
+            "2.841",
+            "4 May 2018",
+            "[31]"
+        ],
+        [
+            "31",
+            "Taylor Swift",
+            "2.825",
+            "23 August 2019",
+            "[32]"
+        ],
+        [
+            "32",
+            "Macklemore & Ryan Lewis with Ray Dalton",
+            "2.807",
+            "16 August 2011",
+            "[33]"
+        ],
+        [
+            "33",
+            "Travis Scott and Kendrick Lamar",
+            "2.782",
+            "13 December 2016",
+            "[34]"
+        ],
+        [
+            "34",
+            "Post Malone",
+            "2.775",
+            "30 August 2019",
+            "[35]"
+        ],
+        [
+            "35",
+            "Queen",
+            "2.744",
+            "31 October 1975",
+            "[36]"
+        ],
+        [
+            "36",
+            "Drake",
+            "2.738",
+            "19 January 2018",
+            "[37]"
+        ],
+        [
+            "37",
+            "Ed Sheeran",
+            "2.724",
+            "14 August 2014",
+            "[38]"
+        ],
+        [
+            "38",
+            "Justin Bieber",
+            "2.720",
+            "27 December 2015",
+            "[39]"
+        ],
+        [
+            "39",
+            "The Weeknd",
+            "2.718",
+            "25 November 2016",
+            "[40]"
+        ],
+        [
+            "40",
+            "Lady Gaga and Bradley Cooper",
+            "2.715",
+            "27 September 2018",
+            "[41]"
+        ],
+        [
+            "41",
+            "Billie Eilish",
+            "2.698",
+            "29 March 2019",
+            "[42]"
+        ],
+        [
+            "42",
+            "John Legend",
+            "2.676",
+            "12 August 2013",
+            "[43]"
+        ],
+        [
+            "43",
+            "Imagine Dragons",
+            "2.670",
+            "27 April 2017",
+            "[44]"
+        ],
+        [
+            "44",
+            "Coldplay",
+            "2.664",
+            "25 May 2008",
+            "[45]"
+        ],
+        [
+            "45",
+            "Bruno Mars",
+            "2.662",
+            "20 July 2010",
+            "[46]"
+        ],
+        [
+            "46",
+            "Avicii",
+            "2.661",
+            "17 June 2013",
+            "[47]"
+        ],
+        [
+            "47",
+            "Imagine Dragons",
+            "2.627",
+            "28 January 2013",
+            "[48]"
+        ],
+        [
+            "48",
+            "The Weeknd",
+            "2.608",
+            "27 May 2015",
+            "[49]"
+        ],
+        [
+            "49",
+            "Twenty One Pilots",
+            "2.596",
+            "28 April 2015",
+            "[50]"
+        ],
+        [
+            "50",
+            "Bruno Mars",
+            "2.578",
+            "15 January 2013",
+            "[51]"
+        ],
+        [
+            "51",
+            "Bruno Mars",
+            "2.577",
+            "1 October 2012",
+            "[52]"
+        ],
+        [
+            "52",
+            "Kendrick Lamar",
+            "2.574",
+            "30 March 2017",
+            "[53]"
+        ],
+        [
+            "53",
+            "Bruno Mars",
+            "2.572",
+            "30 January 2017",
+            "[54]"
+        ],
+        [
+            "54",
+            "Eminem",
+            "2.571",
+            "14 May 2002",
+            "[55]"
+        ],
+        [
+            "55",
+            "The Killers",
+            "2.559",
+            "29 September 2003",
+            "[56]"
+        ],
+        [
+            "56",
+            "The Police",
+            "2.554",
+            "20 May 1983",
+            "[57]"
+        ],
+        [
+            "57",
+            "J. Cole",
+            "2.539",
+            "9 December 2014",
+            "[58]"
+        ],
+        [
+            "58",
+            "Arctic Monkeys",
+            "2.519",
+            "19 June 2013",
+            "[59]"
+        ],
+        [
+            "59",
+            "Eminem",
+            "2.509",
+            "28 October 2002",
+            "[60]"
+        ],
+        [
+            "60",
+            "Passenger",
+            "2.505",
+            "24 July 2012",
+            "[61]"
+        ],
+        [
+            "61",
+            "Ariana Grande",
+            "2.498",
+            "18 January 2019",
+            "[62]"
+        ],
+        [
+            "62",
+            "Linkin Park",
+            "2.495",
+            "9 October 2001",
+            "[63]"
+        ],
+        [
+            "63",
+            "Miley Cyrus",
+            "2.483",
+            "13 January 2023",
+            "[64]"
+        ],
+        [
+            "64",
+            "French Montana and Swae Lee",
+            "2.450",
+            "7 April 2017",
+            "[65]"
+        ],
+        [
+            "65",
+            "Olivia Rodrigo",
+            "2.447",
+            "8 January 2021",
+            "[66]"
+        ],
+        [
+            "66",
+            "Shawn Mendes",
+            "2.447",
+            "3 June 2016",
+            "[67]"
+        ],
+        [
+            "67",
+            "DJ Snake and Justin Bieber",
+            "2.445",
+            "5 August 2016",
+            "[68]"
+        ],
+        [
+            "68",
+            "SZA",
+            "2.434",
+            "9 December 2022",
+            "[69]"
+        ],
+        [
+            "69",
+            "Calvin Harris and Dua Lipa",
+            "2.414",
+            "6 April 2018",
+            "[70]"
+        ],
+        [
+            "70",
+            "Olivia Rodrigo",
+            "2.390",
+            "14 May 2021",
+            "[71]"
+        ],
+        [
+            "71",
+            "Justin Bieber",
+            "2.382",
+            "22 October 2015",
+            "[72]"
+        ],
+        [
+            "72",
+            "Marshmello and Bastille",
+            "2.367",
+            "16 August 2018",
+            "[73]"
+        ],
+        [
+            "73",
+            "XXXTentacion",
+            "2.360",
+            "2 March 2018",
+            "[74]"
+        ],
+        [
+            "74",
+            "Shawn Mendes",
+            "2.358",
+            "20 April 2017",
+            "[75]"
+        ],
+        [
+            "75",
+            "Journey",
+            "2.349",
+            "19 October 1981",
+            "[76]"
+        ],
+        [
+            "76",
+            "XXXTentacion",
+            "2.348",
+            "31 October 2017",
+            "[77]"
+        ],
+        [
+            "77",
+            "Nirvana",
+            "2.344",
+            "10 September 1991",
+            "[78]"
+        ],
+        [
+            "78",
+            "Travis Scott and Drake",
+            "2.333",
+            "21 August 2018",
+            "[79]"
+        ],
+        [
+            "79",
+            "Elton John and Dua Lipa with Pnau",
+            "2.325",
+            "13 August 2021",
+            "[80]"
+        ],
+        [
+            "80",
+            "Lil Uzi Vert",
+            "2.317",
+            "24 March 2017",
+            "[81]"
+        ],
+        [
+            "81",
+            "Major Lazer with DJ Snake and M\u00d8",
+            "2.314",
+            "2 March 2015",
+            "[82]"
+        ],
+        [
+            "82",
+            "Billie Eilish",
+            "2.305",
+            "17 May 2024",
+            "[83]"
+        ],
+        [
+            "83",
+            "The Weeknd",
+            "2.304",
+            "20 March 2020",
+            "[84]"
+        ],
+        [
+            "84",
+            "Oasis",
+            "2.291",
+            "30 October 1995",
+            "[85]"
+        ],
+        [
+            "85",
+            "Jung Kook and Latto",
+            "2.283",
+            "14 July 2023",
+            "[86]"
+        ],
+        [
+            "86",
+            "Dua Lipa and DaBaby",
+            "2.283",
+            "1 October 2020",
+            "[87]"
+        ],
+        [
+            "87",
+            "Dua Lipa",
+            "2.281",
+            "7 July 2017",
+            "[88]"
+        ],
+        [
+            "88",
+            "Sam Smith",
+            "2.275",
+            "8 September 2017",
+            "[89]"
+        ],
+        [
+            "89",
+            "Queen",
+            "2.274",
+            "26 January 1979",
+            "[90]"
+        ],
+        [
+            "90",
+            "Coldplay",
+            "2.270",
+            "26 May 2002",
+            "[91]"
+        ],
+        [
+            "91",
+            "Tyler, the Creator and Kali Uchis",
+            "2.268",
+            "21 July 2017",
+            "[92]"
+        ],
+        [
+            "92",
+            "Mark Ronson and Bruno Mars",
+            "2.267",
+            "10 November 2014",
+            "[93]"
+        ],
+        [
+            "93",
+            "A-ha",
+            "2.267",
+            "19 October 1984",
+            "[94]"
+        ],
+        [
+            "94",
+            "Sam Smith",
+            "2.265",
+            "14 April 2014",
+            "[95]"
+        ],
+        [
+            "95",
+            "Goo Goo Dolls",
+            "2.256",
+            "1 April 1998",
+            "[96]"
+        ],
+        [
+            "96",
+            "Camila Cabello and Young Thug",
+            "2.252",
+            "3 August 2017",
+            "[97]"
+        ],
+        [
+            "97",
+            "Adele",
+            "2.246",
+            "24 January 2011",
+            "[98]"
+        ],
+        [
+            "98",
+            "Maroon 5",
+            "2.229",
+            "20 September 2019",
+            "[99]"
+        ],
+        [
+            "99",
+            "Halsey",
+            "2.223",
+            "4 October 2018",
+            "[100]"
+        ],
+        [
+            "100",
+            "Kendrick Lamar and SZA",
+            "2.205",
+            "4 January 2018",
+            "[101]"
+        ]
+    ]
+}
